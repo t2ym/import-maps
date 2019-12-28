@@ -1,0 +1,16 @@
+{
+  "name": "import-maps",
+  "version": "1.0.0-pre",
+  "private": true,
+  "description": "Reference implementation playground for import maps proposal",
+  "files": [
+    "reference-implementation/lib/"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest --coverage"
+  },
+  "repository": "WICG/import-maps",
+  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
+  "license": "MIT"
+}
