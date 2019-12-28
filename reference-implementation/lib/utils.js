@@ -1,5 +1,5 @@
 'use strict';
-const { URL } = require('url');
+//const { URL } = require('url');
 
 exports.tryURLParse = (string, baseURL) => {
   try {
